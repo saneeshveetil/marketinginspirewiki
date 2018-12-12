@@ -1,5 +1,5 @@
 ---
-description: 'Hypothesis, Tools, Analysis, Results'
+description: 'Hypothesis, Tools, Analysis, Results, Optimization'
 ---
 
 # Landing Page

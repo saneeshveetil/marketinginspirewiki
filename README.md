@@ -1,2 +1,18 @@
-# marketinginspirewiki
-All the experimentations are detailed out here
+---
+description: Various experiments are documented here
+---
+
+# Marketing Inspire Documentation
+
+[Landing Pages](landing-page.md)
+
+[Webinar](webinar.md)
+
+Blogging
+
+Video
+
+Hiring
+
+Consultation
+
